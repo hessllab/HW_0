@@ -5,7 +5,7 @@ Please make use of as many of the `.md` formatting tools as possible.  At a mini
 
 #### Multiple Headers
 ##### And Header Styles
-----------------------  
+
 
 #### Lists  
    1) Numbered lists
