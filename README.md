@@ -29,4 +29,4 @@ _Challenge:_ Add an image
 ---------------------------
 ![Amy with saw](./images/amy_sawII.JPG)
 
-More about me on my homework.
+More about me on my homework. # but here it would be better to...
