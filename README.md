@@ -3,28 +3,29 @@
 Tell me a little bit about yourself and your interests.  
 Please make use of as many of the `.md` formatting tools as possible.  At a minimum, include:
 
-#### Multiple Headers
-##### And Header Styles
-----------------------  
 
-#### Lists  
-   1) Numbered lists
-      * bulleted lists
-          + more lists  
 
-#### Emphasis
-_Emphasis_  
-__Strong emphasis__   
-
-#### Code 
-In `line` code  
+## Namiko Machida
+###### _Departmetn of Geology and Geography, James Lamsdell's lab_
+----------------------------------------------------------------------
+1) Research Interest
+   * Paleozoic arthropod (_Trilobites!_)
+      + Lichids
+      + Phacopids
+      + Proetids
+   * Ontogenetic reconstruction
+   * Phylogenetic analysis
+   * Relationship between __paleoenvironment__ & __evolution__ 
+2) Hobby
+   * Hiking
+   * Swimming
+   * Folding papers
 
 ```bash
-blocks of code  
-with multiple lines  
+email: nm0076@mix.wvu.edu
+tel: 304-376-3360
 ```
-#### [Links to websites](https://amyhessl.faculty.wvu.edu/home)
 
-_Challenge:_ Add an image
----------------------------
-![Amy with saw](./images/amy_sawII.JPG)
+[colleagues](http://www.jameslamsdell.com/lab-members)
+
+![Field photo](HW_0/images/Trilo17Conference2.jpg)
