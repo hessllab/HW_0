@@ -1,10 +1,21 @@
 # Shaun Donmoyer
-## Homework 0: Make a README.md about yourself!
-Tell me a little bit about yourself and your interests.  
-Please make use of as many of the `.md` formatting tools as possible.  At a minimum, include:
+## Let me tell you a little bit about myself!
 
-#### Multiple Headers
-##### And Header Styles
+I am 21 years old and am a first year masters student in the geology department at WVU!
+I was born in a small town northwest of Philly called Allentown but I now live in Wellsboro Pennsylvania.
+I did my undergraduate studies at Penn State University where I obtained a BS in Geosciences.
+
+#### My Hobbies
+   * __Rock Climbing__
+   * Snowboarding
+   * __Mountain Biking__
+   * Backpacking
+   * Traveling
+
+#### Favorite Places
+    1) Yosemite National Park
+    2) Bozeman Montana
+    3) Pennsylvania Grand Canyon
 ----------------------  
 
 #### Lists  
