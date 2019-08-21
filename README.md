@@ -1,30 +1,18 @@
-# HW_0
-## Homework 0: Make a README.md about yourself!
-Tell me a little bit about yourself and your interests.  
-Please make use of as many of the `.md` formatting tools as possible.  At a minimum, include:
+### Sam Tybout
+I'm a second-year MS student in the Geology department. I am from State College, Pennsylvania and got my Bachelor's degree at the University of Rochester. My skills include:
+* _keepin' it real_
+* _kickin' it old school_
+* _getting totally extreme to the max_
 
-#### Multiple Headers
-##### And Header Styles
-----------------------  
-
-#### Lists  
-   1) Numbered lists
-      * bulleted lists
-          + more lists  
-
-#### Emphasis
-_Emphasis_  
-__Strong emphasis__   
-
-#### Code 
-In `line` code  
-
-```bash
-blocks of code  
-with multiple lines  
+#### My Research
+I use the fossil record to study patterns of species diversification and extinction in bivalve mollusks. My data comes from the [paleobiology database](https://paleobiodb.org/#/), and most the analysis is run in R, so I'd like to make everything available from a centralized source like Github. Here's a snippet of code that I wrote:
+```R
+ml_vol = function(series, processed = TRUE){
+  if(!processed){
+    series = process_series(series)
+  }
+  n_events = length(series$t)
+  size = series_size(series, processed)
+  return(n_events / size)
+}
 ```
-#### [Links to websites](https://amyhessl.faculty.wvu.edu/home)
-
-_Challenge:_ Add an image
----------------------------
-![Amy with saw](./images/amy_sawII.JPG)
