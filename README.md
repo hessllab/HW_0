@@ -36,6 +36,6 @@ with multiple lines
 ```
 #### [Links to websites](https://amyhessl.faculty.wvu.edu/home)
 
-_Challenge:_ Add an image
+_Here is a photo from my Field Camp:_ Red Lodge Montana
 ---------------------------
-![Amy with saw](./images/amy_sawII.JPG)
+![Red Lodge MT](/DJI_0088.JPG)
