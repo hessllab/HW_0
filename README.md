@@ -28,4 +28,4 @@ tel: 304-376-3360
 
 [colleagues](http://www.jameslamsdell.com/lab-members)
 
-![Field photo](images/Trilo17Conference (233).jpg)
+![Field photo](https://github.com/NamikoMachida/HW_0/blob/student-Namiko_Machida/Trilo17Conference2.jpg)
