@@ -5,7 +5,6 @@ Please make use of as many of the `.md` formatting tools as possible.  At a mini
 
 #### Multiple Headers
 ##### And Header Styles
-----------------------  
 
 #### Lists  
    1) Numbered lists
@@ -15,6 +14,9 @@ Please make use of as many of the `.md` formatting tools as possible.  At a mini
 #### Emphasis
 _Emphasis_  
 __Strong emphasis__   
+___Stronger emphasis___
+____Can we get stronger?____
+_____I think the answer is no_____
 
 #### Code 
 In `line` code  
