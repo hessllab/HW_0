@@ -1,4 +1,4 @@
-# HW_0
+# Shaun Donmoyer
 ## Homework 0: Make a README.md about yourself!
 Tell me a little bit about yourself and your interests.  
 Please make use of as many of the `.md` formatting tools as possible.  At a minimum, include:
