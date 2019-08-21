@@ -1,6 +1,6 @@
 # HW_0
 ## Homework 0: Make a README.md about yourself!
-Tell me a little bit about yourself and your interests.  
+My name is Caleb and I am orginally from Oak Hill, WV.  
 Please make use of as many of the `.md` formatting tools as possible.  At a minimum, include:
 
 #### Multiple Headers
