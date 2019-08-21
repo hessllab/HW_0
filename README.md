@@ -27,4 +27,4 @@ Topics: Deeplearning, remote sensing
 ```
 
 ---------------------------
-![big_jo](C:/Users/caleb/OneDrive/Pictures/big_Jo.jpg)
+![big_jo](big_Jo.jpg)
