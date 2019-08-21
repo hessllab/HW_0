@@ -27,4 +27,4 @@ with multiple lines
 
 _Challenge:_ Add an image
 ---------------------------
-![Amy with saw](./images/Prairie_Dog.JPG)
+![Prairie_Dog](./images/PrairieDog.JPG)
