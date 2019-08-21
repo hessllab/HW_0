@@ -28,4 +28,4 @@ tel: 304-376-3360
 
 [colleagues](http://www.jameslamsdell.com/lab-members)
 
-![Field photo](HW_0/images/Trilo17Conference2.jpg)
+![Field photo](images/Trilo17Conference (233).jpg)
