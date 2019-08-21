@@ -29,4 +29,4 @@ with multiple lines
 
 _Challenge:_ Add an image
 ---------------------------
-![Amy with saw](./images/amy_sawII.JPG)
+![Amy with saw](./images/Tobi_Ore.jpg)
