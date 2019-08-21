@@ -13,10 +13,12 @@ I did my undergraduate studies at Penn State University where I obtained a BS in
    * Traveling
 
 #### Favorite Places
+
     1) Yosemite National Park
     2) Bozeman Montana
     3) Pennsylvania Grand Canyon
-----------------------  
+    
+ 
 
 #### Lists  
    1) Numbered lists
