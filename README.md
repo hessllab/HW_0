@@ -10,6 +10,8 @@ Please make use of as many of the `.md` formatting tools as possible.  At a mini
 #### Lists  
    1) Numbered lists
       * bulleted lists
+      * bullet 2
+      * bullet 3
           + more lists  
 
 #### Emphasis
