@@ -1,32 +1,30 @@
-# HW_0
-## Homework 0: Make a README.md about yourself!
-My name is Caleb and I am orginally from Oak Hill, WV.  
-Please make use of as many of the `.md` formatting tools as possible.  At a minimum, include:
+# Caleb Malay
+## Birthplace
+Oak Hill, WV  
+Oak Hill is a small town located 10 minutes away from the `New River Gorge Bridge` 
 
-#### Multiple Headers
-##### And Header Styles
+#### Education
+   + Oak Hill High School
+   + West Virginia University (BA in Geography)
+   + West Virginia University (MA in Geography)
 ----------------------  
 
-#### Lists  
-   1) Numbered lists
-      * bulleted lists
-          + more lists 
-          + something
-          + something else
+#### Interests  
+   + hiking
+   + philosophy
+   + travel
+   + reading
 
-#### Emphasis
-_Emphasis_  
-__Strong emphasis__   
+#### Place of Work
+_WV GIS Technical Center_  
+   + May 2018 - Present  
 
-#### Code 
-In `line` code  
-
+#### Graduate Research Information 
 ```bash
-blocks of code  
-with multiple lines  
+Advisor: Dr. Maxwell
+Lab: 431
+Topics: Deeplearning, remote sensing  
 ```
-#### [Links to websites](https://amyhessl.faculty.wvu.edu/home)
 
-_Challenge:_ Add an image
 ---------------------------
-![Amy with saw](./images/amy_sawII.JPG)
+![big_jo](C:/Users/caleb/OneDrive/Pictures/big_Jo.jpg)
