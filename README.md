@@ -18,7 +18,7 @@ Oak Hill is a small town located 10 minutes away from the `New River Gorge Bridg
 #### Place of Work
 _WV GIS Technical Center_  
    + May 2018 - Present 
-   + #### [Links to websites] (http://wvgis.wvu.edu/index.php)
+   + #### [Link to WVGISTC](http://wvgis.wvu.edu/index.php)
 
 #### Graduate Research Information 
 ```bash
