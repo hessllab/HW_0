@@ -21,8 +21,8 @@ I also have one older brother who in an Engineer in LA California and a dog name
   3) Pennsylvania Grand Canyon
   
   ```bash
-  One of my goals in life is to visit as many National Parks as possible. I 
-  have visited 8 so far in the United States. I am also section hiking the 
+  One of my life goals is to visit as many National Parks as possible. I 
+  have visited 8 so far throughout the United States. I am also section hiking the 
   Appalachian Trail and have completed almost the entire Pennsylvania section.
   ```
 ------------------------------  
