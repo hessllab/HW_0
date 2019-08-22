@@ -5,7 +5,7 @@ I am 21 years old and am a first year Masters student in the geology department 
 I was born in a small town northwest of Philly called Allentown but I now live in Wellsboro Pennsylvania.
 I did my undergraduate studies at Penn State University where I obtained a BS in Geosciences. This past
 summer I interned at the Pennsylvania Geological Survey where I worked on a carbon sequestration project.
-I also have one older brother who in an Engineer is LA California and a dog named Tank (unknown breed he's a rescue).
+I also have one older brother who in an Engineer in LA California and a dog named Tank (unknown breed he's a rescue).
 
 #### My Hobbies
    * __Rock Climbing__
@@ -19,6 +19,12 @@ I also have one older brother who in an Engineer is LA California and a dog name
   1) Yosemite National Park
   2) Bozeman Montana
   3) Pennsylvania Grand Canyon
+  
+  ```bash
+  One of my goals in life is to visit as many National Parks as possible. I 
+  have visited 8 so far in the United States. I am also section hiking the 
+  Appalachian Trail and have completed almost the entire Pennsylvania section.
+  ```
 ------------------------------  
     
 
