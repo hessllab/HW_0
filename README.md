@@ -34,7 +34,7 @@ _Brantley Group Geochemistry Lab_
    my time here at WVU I will work with Dr. Sharma to study various environmental impacts
    from hydrocarbon extraction. 
   
-
+#### [If you would like to follow me on Linkedin click here](https://www.linkedin.com/in/shaun-donmoyer-4b411015a/)
 
 _Here is a photo from my Field Camp:_ Red Lodge Montana
 ---------------------------
