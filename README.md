@@ -31,7 +31,7 @@ _Brantley Group Geochemistry Lab_
    During my time at PSU I was a research assistant in an Ice Core lab using trace gases
    to reconstruct climate in Antarctica and Greenland. I also studied stray gases
    especially methane in surface waters near areas of oil and gas development. During 
-   my time here at WVU I will work with Dr. Sharma to study various environmental impacts
+   my time here at WVU I will work with  `Dr. Sharma`  to study various environmental impacts
    from hydrocarbon extraction. 
   
 #### [If you would like to follow me on Linkedin click here](https://www.linkedin.com/in/shaun-donmoyer-4b411015a/)
