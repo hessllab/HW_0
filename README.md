@@ -6,7 +6,7 @@ __Tobi Ore__, from Ekiti State, Nigeria, is pursuing a masters in geology at Wes
 In his spare time, 
    * he plays basketball (formerly professional); 
    * he plays video games (sports); and 
-   * he love traveling. 
+   * he loves traveling. 
 ## Research Interest
 Tobi is interested in the following research fields;
   * Seismic interpretation
