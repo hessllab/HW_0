@@ -17,4 +17,4 @@ Tobi is interested in the following research fields;
   * Geomechanics
   * Petroleum Geology
 ---------------------------
-(./images/Tobi_Ore.jpg)
+![Tobi_Ore](./images/Tobi_Ore.jpg)
