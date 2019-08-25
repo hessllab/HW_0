@@ -19,7 +19,7 @@
 contact address
 email: nm0076@mix.wvu.edu
 tel: 304-376-3360
-```
+```  
 [colleagues](http://www.jameslamsdell.com/lab-members)
 
 ![Fossil hunting in Estonia](https://github.com/NamikoMachida/HW_0/blob/student-Namiko_Machida/Trilo17Conference2.jpg)
